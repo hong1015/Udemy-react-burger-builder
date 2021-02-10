@@ -1,0 +1,15 @@
+.wrap{
+    margin: auto;
+    width: 100%;
+}
+
+.summary{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+@media (min-width: 600px){
+    .summary{
+        width: 500px;
+    }
+}

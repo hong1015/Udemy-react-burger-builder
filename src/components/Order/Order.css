@@ -1,0 +1,17 @@
+.order{
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 3px #ccc;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px auto;
+    width: 80%;
+}
+
+.ig{
+    border: 1px solid #000;
+    display: inline-block;
+    margin-inline: 8px;
+    padding: 5px;
+    text-transform: capitalize;
+
+}
